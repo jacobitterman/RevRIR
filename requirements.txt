@@ -1,0 +1,13 @@
+transformers==4.34.1
+pandas
+numpy
+tqdm
+scipy
+matplotlib
+torch
+torchaudio
+torchlibrosa==0.1.0
+librosa==0.10.0
+einops==0.6.0
+x_clip
+rir_generator
